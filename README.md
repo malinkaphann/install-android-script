@@ -1,28 +1,28 @@
 # install-android-script
 
-## download command line tools
+1. download command line tools
 [command line tools](https://developer.android.com/studio)
 
-## rename its folder to cmdline-tools
+2. rename its folder to cmdline-tools
 
-## copy cmdline-tools to ~/Android
+3. copy cmdline-tools to ~/Android
 
-## set environment ANDROID_HOME in ~/.profile
+4. set environment ANDROID_HOME in ~/.profile
 > export ANDROID_HOME="$HOME/Android"
 
-## add its bin to path
+5. add its bin to path
 > export $PATH="$ANDROID_HOME/cmdline-tools/tools/bin:$PATH"
 
-## activate environment
+6. activate environment
 > source ~/.profile
 
-## verify
+7. verify
 > sdkmanager --list
 
-## run script
+8. run script
 ./android.sh
 
-## run emulator
+9. run emulator
 ./run.sh
 
 
