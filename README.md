@@ -19,10 +19,13 @@
 7. verify
 > sdkmanager --list
 
-8. run script
-> ./android.sh
+8. download android platform tools, emulator, system image, ndk 
+> ./download.sh
 
-9. run emulator
+9. create emulator 
+> ./create.sh
+
+10. run emulator
 > ./run.sh
 
 
