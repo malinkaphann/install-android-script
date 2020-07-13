@@ -20,9 +20,9 @@
 > sdkmanager --list
 
 8. run script
-./android.sh
+> ./android.sh
 
 9. run emulator
-./run.sh
+> ./run.sh
 
 
