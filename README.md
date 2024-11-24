@@ -1,5 +1,7 @@
 # install-android-script
 
+[sdkmanager](https://developer.android.com/tools/sdkmanager)
+
 1. download command line tools
 [command line tools](https://developer.android.com/studio)
 
