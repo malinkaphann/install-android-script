@@ -1,4 +1,4 @@
-# install-android-script
+# install-android-script (updated for android-35)
 
 [sdkmanager](https://developer.android.com/tools/sdkmanager)
 
